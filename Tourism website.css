@@ -1,0 +1,51 @@
+body{
+    margin: 0px;
+}
+.main-div{
+    width: 350px;
+    height: 645px;
+    background-color: black;
+    margin-left: 300px;
+}
+.carousel{
+    width: 340px;
+    height: 190px;
+    
+}
+.carousel-inner img{
+    width: 340px;
+    height: 190px;
+    padding-bottom: 10px;
+}
+.carousel-item{
+    width: 340px;
+    height: 190px;
+    background-size: cover  ;
+}
+.card-container{
+    background-color: white;
+    width: 340px;   
+    padding-bottom: 0px;
+}
+.card-container h6{
+    padding:0px 0px 0px 23px;
+}
+.card-container p{
+    font-size: 12px;
+    color: grey;
+    padding:0px 23px;
+}
+.more-pictures{
+    padding: 10px 20px;
+}
+.more-pictures img{
+    width: 95px;
+    padding:0px 4px;
+}
+.more-pictures iframe{
+    width: 95px;
+    padding:0px 5px;
+    height: 80px;
+    border-radius: 10px;
+}
+
